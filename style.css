@@ -1,3 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.content1 {
+    background-image: url('Header-llustration-desktop.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
 .intro1,
 .intro2 {
 color: #172b4d;
