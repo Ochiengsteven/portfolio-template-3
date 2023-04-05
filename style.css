@@ -1,0 +1,26 @@
+.intro1,
+.intro2 {
+color: #172b4d;
+font-size: 40px;
+font-weight: 700;
+}
+
+.career {
+color: #36b37e;
+font-size: 40px;
+font-weight: 700;
+margin-top: 30px;
+}
+
+.social ul li {
+margin: 0 4px;
+}
+
+.headline {
+padding: 80px 0;
+}
+
+.next-page {
+margin-top: 50px;
+margin-bottom: 100px;
+}
