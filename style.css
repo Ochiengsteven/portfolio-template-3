@@ -49,3 +49,8 @@ p {
   list-style: none;
   padding: 5px;
 }
+
+.langs {
+  min-width: fit-content;
+}
+
