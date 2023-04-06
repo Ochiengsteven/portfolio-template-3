@@ -1,8 +1,19 @@
 * {
-  margin: 0;
-  padding: 0;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
+  }
+
+body {
+position: relative;
 }
+
+p,
+.lead {
+  font-family: 'Inter',sans-serif;
+}
+
 
 .content1 {
   background-image: url('Header-llustration-desktop.svg');
@@ -53,4 +64,3 @@ p {
 .langs {
   min-width: fit-content;
 }
-
